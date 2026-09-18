@@ -25,6 +25,15 @@
 
 **修改流程**：在已交付视频基础上提修改意见（如"某页加一句"），会自动原地更新并在文件名加版本号（v2/v3…），不覆盖旧文件。
 
+## 案例效果
+
+四种编辑式排版（深色大标题 / 浅色分栏 / 主色文字带 / 浅色流程横带），品牌与配色为占位示意：
+
+![大标题压屏](assets/case-study/case-title.png)
+![开放式分栏](assets/case-study/case-split.png)
+![横向文字带](assets/case-study/case-bands.png)
+![流程横带](assets/case-study/case-flow.png)
+
 ## 内容
 
 | 路径 | 说明 |
